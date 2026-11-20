@@ -1,4 +1,4 @@
-# SecureDroid
+6th# SecureDroid
 
 A privacy-first Android security toolkit for encrypted files and messages,
 safer Wi-Fi usage, and private DNS configuration.
@@ -77,3 +77,11 @@ app/
   audit/
   data/
   presentation/
+magic
+format version
+algorithm ID
+KDF ID
+salt
+IV
+ciphertext
+GCM authentication tag
